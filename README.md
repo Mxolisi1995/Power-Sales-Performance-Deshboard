@@ -29,3 +29,5 @@ Businesses need a clear way to monitor sales performance and identify opportunit
 * Data visualization best practices
 * Business intelligence reporting
 * Turning raw data into actionable insights
+
+* #PowerBI #DataAnalytics #DataAnalyst #BusinessIntelligence #Dashboard #DataVisualization #OpenToWork
